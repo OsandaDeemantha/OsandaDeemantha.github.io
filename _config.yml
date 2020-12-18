@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,24 +26,25 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    - Py-Template
+    - osandadeemantha
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: osandadh
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: osanda_dee
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: osanda-d
   # mastodon: your_username
-  # medium: your_username
+  medium: \@osa_
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: OsandaDeemantha
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://osandadeemantha.github.io
   # youtube: your_username
 
 topics:
