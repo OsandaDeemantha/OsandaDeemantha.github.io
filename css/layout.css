@@ -844,8 +844,16 @@
 
 .client-items .client-item img {
 	max-width: 100%;
-	/* opacity: 0.8; */
+	transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	opacity: 0.5;
 	/* filter: grayscale(100%); */
+}
+
+.client-items .client-item img:hover {
+	opacity: 0.8;
 }
 
 /*
