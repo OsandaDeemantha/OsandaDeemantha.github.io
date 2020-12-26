@@ -62,7 +62,7 @@ body {
 	xx Font awesome css
 */
 
-.fa,.fab,.fal,.far,.fas {
+/* .fa,.fab,.fal,.far,.fas {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     display: inline-block;
@@ -70,7 +70,7 @@ body {
     font-variant: normal;
     text-rendering: auto;
     line-height: 1
-}
+} */
 
 /*
 	2. Container
