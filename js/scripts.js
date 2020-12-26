@@ -566,11 +566,11 @@ function initMap() {
 	  ]
 
 	var mapOptions = {
-		zoom: 13,
+		zoom: 10,
 		center: myLatlng,
 		mapTypeControl: false,
-		disableDefaultUI: true,
-		zoomControl: false,
+		disableDefaultUI: false,
+		zoomControl: true,
 		scrollwheel: false
 		// styles: stylesDark
 	}
