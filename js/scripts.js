@@ -566,7 +566,7 @@ function initMap() {
 	  ]
 
 	var mapOptions = {
-		zoom: 12,
+		zoom: 8,
 		center: myLatlng,
 		mapTypeControl: false,
 		disableDefaultUI: true,
